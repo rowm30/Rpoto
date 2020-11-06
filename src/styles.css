@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url('../src/assets/images/tech-background-hd-1.png');
+}
+.j1{
+    margin: auto;
+    width: 100%;
+    padding: 15%;
+}
